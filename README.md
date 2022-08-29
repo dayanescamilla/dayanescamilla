@@ -1,13 +1,19 @@
 ### Hi, I'm Dayan :computer: 
 
-<img src="https://github.com/dayanescamilla/dayanescamilla/blob/main/Banner.png" align="center"/>
+
 
 
 ***
 <div id"header" align="center">
+
+<img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/Banner_Dayan.png' alt='Banner' align="center">
+
 <h4>Hello, my name is Dayan, I am a programmer and designer, I currently work as an Android Developer and in my free time I dedicate myself to creating augmented reality. The programming languages that I use the most are Java, Kotlin and C#.</h4>
 
 [<img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/twitter.svg' alt='Twitter' align="left" height='30'>](https://twitter.com/dayan_ep)
+
+
+
 
 </div>
 <!--
