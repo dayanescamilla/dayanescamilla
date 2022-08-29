@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+
+<img src="https://github.com/dayanescamilla/dayanescamilla/blob/main/I%20am%20Dayan.gif" /> <img src="https://github.com/dayanescamilla/dayanescamilla/blob/main/dance.gif" width="60" />
+
+<div id"header" >
+<center><img src="https://github.com/dayanescamilla/dayanescamilla/blob/main/computers.gif" style="right"/></center>
+</div>
 
 <!--
 **dayanescamilla/dayanescamilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
