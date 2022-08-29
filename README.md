@@ -1,10 +1,16 @@
-### Hi there 👋 
+### Hi, I'm Dayan :computer: <img src="https://github.com/dayanescamilla/dayanescamilla/blob/main/computers.gif" align="right" width="100"/>
+***
 
-<img src="https://github.com/dayanescamilla/dayanescamilla/blob/main/I%20am%20Dayan.gif" /> <img src="https://github.com/dayanescamilla/dayanescamilla/blob/main/dance.gif" width="60" />
 
-<div id"header" >
-<center><img src="https://github.com/dayanescamilla/dayanescamilla/blob/main/computers.gif" style="right"/></center>
+<div id"header" align="center">
+<h4>Hello, my name is Dayan, I am a programmer and designer, I currently work as an Android Developer and in my free time I dedicate myself to creating augmented reality. The programming languages that I use the most are Java, Kotlin and C#.</h4>
 </div>
+
+
+[<img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/twitter.svg' alt='Twitter' height='40'>](https://twitter.com/dayan_ep) 
+
+***
+###Find me around the web 
 
 <!--
 **dayanescamilla/dayanescamilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
