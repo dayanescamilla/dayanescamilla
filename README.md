@@ -10,8 +10,6 @@
 </div>
 
 
-[<img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/twitter.svg' alt='Twitter' align="left" height='30'>](https://twitter.com/dayan_ep) [<img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/LinkedIn.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/dayanescamillaperez/)
-
 
 
 <div id="footer">
@@ -19,10 +17,13 @@
   <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_java.png' title='Java' width="40" heigth="40">&nbsp;
   <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_kotlin.png' title='Kotlin' width="40" heigth="40">&nbsp;
   <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_csharp.png' title='C#' width="40" heigth="40">&nbsp;
-  <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_python.png' title='Python' width="40" heigth="40">
+  <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_python.png' title='Python' width="40" heigth="40">&nbsp;
+  <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_mysql.png' title='MySQL' width="40" heigth="40">&nbsp;
+  <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_firebase.png' title='Firebase' width="32" heigth="32">&nbsp;
   </div>
 
-
+### :mag: Find me around the web
+[<img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/sh_twitter.svg' title='Twitter' align="left" height='30'>](https://twitter.com/dayan_ep) [<img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/sh_linkedin.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/dayanescamillaperez/)
 
 <!--
 **dayanescamilla/dayanescamilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
