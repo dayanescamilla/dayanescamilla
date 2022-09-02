@@ -1,12 +1,15 @@
-### Hi, I'm Dayan 
-***
+
+
 <div id"header" align="center">
-<img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/Banner_Dayan.png' alt='Banner' align="center">
+<img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/Banner_Dayan.png' alt='Banner' align="center" width="900">
 </div>
 
+### :computer: Hi, I'm Dayan 
 
 <div id="body">
-  <h3>:computer:  I am a programmer and designer, I currently work as an Android Developer and in my free time I dedicate myself to creating augmented reality. The programming languages that I use the most are Java, Kotlin and C#.</h3>
+  <h4>I'm a programmer and UX/UI designer, I've been working as an Android Developer for a year now.
+I am currently learning the Swift programming language for mobile app development on iOS.
+In my free time I dedicate myself to creating augmented reality. The programming languages I use the most are Java, Kotlin and C#.</h4>
 </div>
 
 
