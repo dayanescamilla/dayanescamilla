@@ -7,9 +7,9 @@
 ### :computer: Hi, I'm Dayan 
 
 <div id="body">
-  <h4>I'm a programmer and UX/UI designer, I've been working as an Android Developer for a year now.
-I am currently learning the Swift programming language for mobile app development on iOS.
-In my free time I dedicate myself to creating augmented reality. The programming languages I use the most are Java, Kotlin and C#.</h4>
+  <h4>I'm a programmer and UX/UI designer, I have been working as an Android developer for a year.
+I am currently learning the Dart programming language for cross-platform application development with the help of the Flutter freamwork.
+In my free time I dedicate myself to creating augmented reality. The programming languages I use the most are Java, Dart and C#. </h4>
 </div>
 
 
@@ -17,8 +17,8 @@ In my free time I dedicate myself to creating augmented reality. The programming
 
 <div id="footer">
   <h3> :wrench: Lenguages and Tools</h3>
+  <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_logo.png' title='Flutter' width="40" heigth="40">&nbsp;
   <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_java.png' title='Java' width="40" heigth="40">&nbsp;
-  <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_kotlin.png' title='Kotlin' width="40" heigth="40">&nbsp;
   <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_csharp.png' title='C#' width="40" heigth="40">&nbsp;
   <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_python.png' title='Python' width="40" heigth="40">&nbsp;
   <img src='https://github.com/dayanescamilla/dayanescamilla/blob/main/ic_mysql.png' title='MySQL' width="40" heigth="40">&nbsp;
